@@ -1,0 +1,11 @@
+--2021-05-20 03:02:11--  https://dl.google.com/go/go1.14.2.linux-amd64.tar.gz
+Resolving dl.google.com (dl.google.com)... 142.250.192.14, 2404:6800:4002:816::200e
+Connecting to dl.google.com (dl.google.com)|142.250.192.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123658438 (118M) [application/octet-stream]
+Saving to: ‘STDOUT’
+
+-                              0%[                                               ]  44.39K  --.-KB/s    in 0.05s   
+
+
+Cannot write to ‘-’ (Success).
